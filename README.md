@@ -5,7 +5,6 @@
 #### By: Maxwel Omwoyo
 
 ## Description
-## Question 1:
 THis is a Hospital appointment system that aids staff and patients to book an appointment with a medical officer, nurse or any specialists.
 It allows a patient to be able to book an appointment with a date in it that will be assign ed by the staff
 ## Installation
