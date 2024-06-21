@@ -14,9 +14,9 @@ You use git clone to be able to download the documents in the GitHub
 Git
 Node.js
 
-### Installation instruction
+### LIve link
 ```
-Git clone [https://github.com/Bakora2001/Hospital-System]
+https://phase3-project-jet.vercel.app/
 
 ```
 
