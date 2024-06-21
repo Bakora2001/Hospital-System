@@ -16,7 +16,7 @@ Node.js
 
 ### Installation instruction
 ```
-Git clone https://github.com/Bakora2001/Hospital-System
+Git clone [https://github.com/Bakora2001/Hospital-System]
 
 ```
 
